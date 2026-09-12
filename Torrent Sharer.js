@@ -2,7 +2,7 @@
 // @name         Torrent Sharer
 // @description  Clicking `*.torrent` links triggers the file share sheet
 // @match        https://*/*
-// @author       Evan Purkhiser <evanpurkhiser@gmail.com>
+// @author       Evan Purkhiser
 // ==/UserScript==
 
 async function getFilename(res) {

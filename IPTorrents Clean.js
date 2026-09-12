@@ -2,7 +2,7 @@
 // @name         IPTorrents Clean
 // @description  Adds viewport metadata tag to IPTorrents
 // @match        https://iptorrents.com/*
-// @author       Evan Purkhiser <evanpurkhiser@gmail.com>
+// @author       Evan Purkhiser
 // ==/UserScript==
 
 // make mobile friendly
